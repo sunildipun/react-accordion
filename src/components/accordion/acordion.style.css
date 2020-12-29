@@ -1,0 +1,22 @@
+.btn {
+    outline: none;
+    background: transparent;
+    border-color: transparent;
+    width: 2rem;
+    height: 2rem;
+}
+
+.query {
+    display: flex;
+    align-items: center;
+}
+
+.query__info {
+    padding: 0 2rem
+}
+
+.accordion {
+    border-radius: 0.25rem;
+    border-left: 3px solid blue;
+    margin: 0.50rem 0;
+}
